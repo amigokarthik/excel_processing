@@ -1,6 +1,6 @@
 # excel_processing - cherrypy-redis-application
 
-A application that can be used for excel processing and storing it in redis db into proper data structure.A cherrypy script that is used to fetch data from redis and render it on view.
+An application that can be used for excel processing and storing it in redis db into proper data structure.A cherrypy script that is used to fetch data from redis and render it on view.
 
 ## About
 
